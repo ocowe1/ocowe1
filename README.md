@@ -30,3 +30,7 @@
   ![Snake animation](https://github.com/ocowe1/ocowe1/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+ ___  ___  ___       ___ 
+|   )|    |   )|   )|___)
+|__/ |__  |__/ |/\/ |__  
