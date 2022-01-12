@@ -1,7 +1,7 @@
 👋 Olá, eu sou o @ocowe1
 
 - 📷 Hoje trabalho com back-end PHP
-- 🌱 Estudando Python 
+- 🌱 Estudando Python, NodeJs e React
 
  <div>
   <a href="https://github.com/ocowe1">
